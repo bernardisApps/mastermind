@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+.principal{
+  text-align:center;
+  margin-top:5px;
+  color:white;
+}
+
+.title{
+  font-size:3rem;
+  font-family:'Metal Mania';
+  color:red;
+}
+
+.propaganda{
+  position:fixed;
+  bottom:0px;
+  left:auto;
+  margin:2px;
+  color:red;
+}
+
+.propaganda p{
+  margin:0px;
+}
+
+.fixed-botones{
+  position:fixed;
+  bottom:30px;
+  left:22%;
+}
+
+.fixed-numeros{
+  position:fixed;
+  bottom:80px;
+  left:10px;
+  width:100%;
+}

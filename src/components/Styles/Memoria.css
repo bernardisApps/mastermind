@@ -1,0 +1,9 @@
+.memoria{
+  display:flex;
+  flex-direction:row;
+  margin-bottom:10px;
+}
+
+.punto:hover{
+  cursor:pointer;
+}

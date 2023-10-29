@@ -1,0 +1,14 @@
+.ayuda{
+  position:absolute;
+  width:85%;
+  left:7.5%;
+  top:5%;
+  background-color:#343a40;
+  text-align:center;
+  opacity:0.95;
+  color:white;
+  border-radius:10px;
+  padding:2px;
+  overflow-y: auto;
+  max-height: 80%;
+}
